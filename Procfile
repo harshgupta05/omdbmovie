@@ -1,1 +1,1 @@
-web: gunicorn moviedb.wsgi
+web: gunicorn newone.wsgi

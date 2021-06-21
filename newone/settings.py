@@ -133,7 +133,7 @@ if DEBUG:
         }
     }
 else:
-    ALLOWED_HOSTS = ["localhost"]
+    ALLOWED_HOSTS = ["newonemovie.herokuapp.com", "localhost"]
     DATABASES = {
         "default": {
             "ENGINE": "django.db.backends.postgresql",
