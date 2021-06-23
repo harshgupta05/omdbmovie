@@ -2,7 +2,7 @@
 
 ### Build a REST API for us - a movie database interacting with external API.
 
-You can see Project [Click here](https://harshgupta05-omdbmovie.zeet.app/)
+You can see Project [Click here](https://harshgupta05-omdbmovie-2636.zeet.app/)
 
 ## OMDB-MOVIE-API
 OMBD-API-bridge is *Proof-of-Concept* project for using (*existing*) and making (*own*) API's in **Django Rest Framework**. It based on external [OMDB-API](http://www.omdbapi.com/) for getting movies and serving them to user of this app in similar form.
