@@ -38,5 +38,5 @@ class Migration(migrations.Migration):
         ),
     ]
 
-    # Django 3.2.4 on (2021-06-20) 15:02
+
 
